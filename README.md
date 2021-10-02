@@ -1,5 +1,12 @@
 # HTML/CSS/JS Web Components
 
+# Overview
+
+The goal of this project is to help the beginners with their contributions in Open Source. We aim to achieve this collaboratively, so feel free to contribute in any way you want, just make sure to follow the contribution guidelines. Provide a simple web component like input, title, heading, paragraphs, bottons, image, animation, responsive components, lists, tables, spans, etc.
+
+## Implementations ⚙
+
+[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" height="60" />](https://github.com/SobhanBera/algorithms) [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" height="60" />](https://github.com/SobhanBera/algorithms) [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" height="60" />](https://github.com/SobhanBera/algorithms)
 
 ## Quick Start
 #### Follow these steps below to get started with open-source contribution:
@@ -37,8 +44,49 @@
 	Now upto this point you have downloaded the project, made changed and pushed them to the forked repository. Now the pushed code is in your profile make sure it goes to the main repository. For that create a PR by clicking the `Open Pull Request`. Whenever you makes changes one more section got shown in the forked repository which says `Contribute` above the project files list. Click on that and you will see the `Open Pull Request`.
 **Hurray! You made your first open-source contribution. Congratulations!**
 **Keep It Up!**
-	
-	
-	
-	
-	
+
+
+
+## Implemented Components
++------------------------------------------+------+
+| Components                               | Done |
++------------------------------------------+------+
+| Alert                                    |      | 
+| Autocomplete                             |      |        
+| Avatars                                  |      |   
+| Badges                                   |      |  
+| Backdrop                                 |      |    
+| Box                                      |      |
+| Button                                   |      |  
+| Button Group                             |      |        
+| Checkbox                                 |      |    
+| Chip                                     |      |
+| Corner Dialog                            |      |         
+| Dialog                                   |      |  
+| Divider                                  |      |   
+| Filepicker                               |      |      
+| Form Field                               |      |      
+| List                                     |      |
+| Menu                                     |      |
+| Pagination                               |      |      
+| Popover                                  |      |   
+| Positioner                               |      |      
+| Progress                                 |      |    
+| Radio                                    |      | 
+| Rating                                   |      |  
+| Search Input/Box                         |      |            
+| Select                                   |      |  
+| Select Menu                              |      |       
+| Side Sheet                               |      |      
+| Slider                                   |      |  
+| Spinner                                  |      |   
+| Switch                                   |      |  
+| Tab                                      |      |
+| Table                                    |      | 
+| Tag Input                                |      |     
+| Text Input                               |      |      
+| Textarea                                 |      |    
+| Toast                                    |      | 
+| Tolltip	                               |      |      
++------------------------------------------+------+		
+
