@@ -48,9 +48,9 @@ The goal of this project is to help the beginners with their contributions in Op
 
 
 ## Implemented Components
-+------------------------------------------+------+
+
 | Components                               | Done |
-+------------------------------------------+------+
+|:-----------------------------------------|:----:|
 | Alert                                    |      | 
 | Autocomplete                             |      |        
 | Avatars                                  |      |   
@@ -88,5 +88,4 @@ The goal of this project is to help the beginners with their contributions in Op
 | Textarea                                 |      |    
 | Toast                                    |      | 
 | Tolltip	                               |      |      
-+------------------------------------------+------+		
 
