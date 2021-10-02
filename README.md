@@ -45,7 +45,12 @@ The goal of this project is to help the beginners with their contributions in Op
 **Hurray! You made your first open-source contribution. Congratulations!**
 **Keep It Up!**
 
-
+## Code Format
+1. Whatever you are implementing let say `Button`. Create a new folder named `Button` inside `Components/Light Mode`.
+2. If it is in light mode do the above step index `Components/Light Mode/Button` folder else `Components/Dark Mode/Button` folder
+3. Add html file - `index.html`(**required**), in this folder. Rest you can add more css, js, html files as per your requirements.
+4. If your are adding a new website template like a utility website. Then add the whole project under `Projects/Light Mode/<Your Project name>/<Your Project's Files>`.
+5. Same applies for this if the website is in light mode add your code files inside `Projects/Light Mode/<Your Project name>/<Your Project's Files>` else `Projects/Dark Mode/<Your Project name>/<Your Project's Files>`.
 
 ## Implemented Components
 
