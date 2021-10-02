@@ -49,43 +49,46 @@ The goal of this project is to help the beginners with their contributions in Op
 
 ## Implemented Components
 
-| Components                               | Done |
-|:-----------------------------------------|:----:|
-| Alert                                    |      | 
-| Autocomplete                             |      |        
-| Avatars                                  |      |   
-| Badges                                   |      |  
-| Backdrop                                 |      |    
-| Box                                      |      |
-| Button                                   |      |  
-| Button Group                             |      |        
-| Checkbox                                 |      |    
-| Chip                                     |      |
-| Corner Dialog                            |      |         
-| Dialog                                   |      |  
-| Divider                                  |      |   
-| Filepicker                               |      |      
-| Form Field                               |      |      
-| List                                     |      |
-| Menu                                     |      |
-| Pagination                               |      |      
-| Popover                                  |      |   
-| Positioner                               |      |      
-| Progress                                 |      |    
-| Radio                                    |      | 
-| Rating                                   |      |  
-| Search Input/Box                         |      |            
-| Select                                   |      |  
-| Select Menu                              |      |       
-| Side Sheet                               |      |      
-| Slider                                   |      |  
-| Spinner                                  |      |   
-| Switch                                   |      |  
-| Tab                                      |      |
-| Table                                    |      | 
-| Tag Input                                |      |     
-| Text Input                               |      |      
-| Textarea                                 |      |    
-| Toast                                    |      | 
-| Tolltip	                               |      |      
+:heavy_check_mark: - Done
+:x: - Pending (Not Implemented)
+
+| Components                               |       Done       |
+|:-----------------------------------------|:----------------:|
+| Alert                                    |:x:               |
+| Autocomplete                             |:x:               |
+| Avatars                                  |:x:               |
+| Badges                                   |:x:               |
+| Backdrop                                 |:x:               |
+| Box                                      |:x:               |
+| Button                                   |:x:               |
+| Button Group                             |:x:               |
+| Checkbox                                 |:x:               |
+| Chip                                     |:x:               |
+| Corner Dialog                            |:x:               |
+| Dialog                                   |:x:               |
+| Divider                                  |:x:               |
+| Filepicker                               |:x:               |
+| Form Field                               |:x:               |
+| List                                     |:x:               |
+| Menu                                     |:x:               |
+| Pagination                               |:x:               |
+| Popover                                  |:x:               |
+| Positioner                               |:x:               |
+| Progress                                 |:x:               |
+| Radio                                    |:x:               |
+| Rating                                   |:x:               |
+| Search Input/Box                         |:x:               |
+| Select                                   |:x:               |
+| Select Menu                              |:x:               |
+| Side Sheet                               |:x:               |
+| Slider                                   |:x:               |
+| Spinner                                  |:x:               |
+| Switch                                   |:x:               |
+| Tab                                      |:x:               |
+| Table                                    |:x:               |
+| Tag Input                                |:x:               |
+| Text Input                               |:x:               |
+| Textarea                                 |:x:               |
+| Toast                                    |:x:               |
+| Tolltip	                               |:x:               |
 
