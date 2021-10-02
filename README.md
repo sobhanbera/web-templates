@@ -8,6 +8,8 @@ The goal of this project is to help the beginners with their contributions in Op
 
 [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" height="60" />](https://github.com/SobhanBera/algorithms) [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" height="60" />](https://github.com/SobhanBera/algorithms) [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" height="60" />](https://github.com/SobhanBera/algorithms)
 
+## NOTE: Please attach a screenshot of the template/website/project you are providing.
+
 ## Quick Start
 
 #### Follow these steps below to get started with open-source contribution:
