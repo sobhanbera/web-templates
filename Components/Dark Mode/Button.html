@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<header>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Button</title>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
+        body {
+            text-align: center;
+            height: 100vh;
+            background-color: rgb(41, 41, 41);
+        }
+        
+        .btn {
+            margin: 30px;
+            font-family: 'Poppins', sans-serif;
+            border-radius: 90px;
+            border: none;
+            background-color: orange;
+            text-align: center;
+            color: white;
+            padding: 4px 10px;
+            font-size: 1.4em;
+            transition: all 0.3s ease-in-out;
+            cursor: pointer;
+            font-weight: 500
+        }
+        
+        .hov:hover {
+            transform: scale(1.2);
+        }
+    </style>
+</header>
+
+<body>
+    <button class="btn hov">Button</button>
+    <button class="btn">Button</button>
+</body>
+
+</html>
