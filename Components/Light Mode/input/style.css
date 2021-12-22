@@ -1,0 +1,29 @@
+body {
+    background-color: skyblue;
+    text-align: center;
+    height: 100vh;
+}
+
+.input {
+    border-radius: 7px;
+    padding: 10px;
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
+    border: 3px solid rgb(178, 178, 245);
+    font-size: 1.3em;
+    outline: none;
+}
+
+@media(prefers-color-scheme: dark) {
+    body {
+        background-color: black;
+        text-align: center;
+        height: 100vh;
+    }
+    .input {
+        background-color: rgba(255, 255, 255, 0.952);
+        border: 3px solid orange;
+        outline: none;
+    }
+}
